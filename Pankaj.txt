@@ -1,0 +1,18 @@
+GATE CSE Engineering Mathematics
+Sir, Please mention the source for studying vectors in engineering mathematics.
+best book for software engineering
+Please let me know the best book for software engineering .....
+How do I prepare Engineering Mathematics for Gate CS?
+Good Morning, I want to start Engineering Mathematics and need help from you to know where to start and what would be the best sequence to complete the whole subject?
+Are proofs important at this time while I am preparing Engineering Mathematics?
+Good Morning I am preparing Engineering Mathematics now and as the time is less, does proofs matters to learn? Thank you in Advance
+GATE2016-1-8
+We want to design a synchronous counter that counts the sequence
+0−1−0−2−0−3
+and then repeats. The minimum number of
+J-K
+flip-flops required to implement this counter is _____________.
+Software-Engineering
+Software Engineering is a discipline that integrates _________ for the development of computer software. (A) Process (B) Methods (C) Tools (D) All
+Software-Engineering
+Match the following: (a) Unit test (i) Requirements (b) System test (ii) Design (c) Validation test (iii) Code (d) Integration test (iv) System Engineering
